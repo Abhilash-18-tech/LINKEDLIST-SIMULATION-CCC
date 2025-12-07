@@ -262,7 +262,6 @@ Algorithm:
 4. Performance comparison with arrays
 5. Animation speed control (already in web version)
 
----
 
 ## 8. CONCLUSION
 
@@ -272,10 +271,3 @@ This project successfully demonstrates the internal working of a Singly Linked L
 - Detailed C++ implementation
 - Comprehensive documentation
 - Step-by-step operation logging
-
-**Signature:** _______________  
-**Date:** _______________
-
----
-
-**END OF REPORT**
